@@ -1,5 +1,5 @@
 # CustomUserManagementASPNetCore
-It's a small yet practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
+It's a practical implementation of Custom User Management in ASP.NET Core MVC with Identity.
 This will cover most of the practical use cases involved while developing User Management in ASP.NET Core.
 # Give a Star ⭐️
 If you found this Implementation helpful or used it in your Projects, do give it a star. Thanks!
